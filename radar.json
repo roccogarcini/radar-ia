@@ -1,0 +1,42 @@
+{
+  "updated_at": "2026-09-16T10:15:00-06:00",
+  "editions": [
+    {"date":"2026-09-16","signals_reviewed":17,"stories":[
+      {"type":"signal","title":"La voz ya no sólo conversa: empieza a trabajar mientras hablas.","summary":"Voz, visión, razonamiento y herramientas empiezan a mezclarse en una sola interacción. La oportunidad es un agente capaz de seguir conversando mientras consulta, analiza y ejecuta.","topics":["Voz","Agentes"]},
+      {"type":"important","title":"La web empieza a prepararse para agentes.","summary":"Search, entrenamiento y agentes comienzan a tratarse como tráficos distintos. Para marketing, esto anticipa una capa adicional a SEO.","topics":["Marketing","Web"]},
+      {"type":"try","title":"Haz una tarea completa sólo hablando.","summary":"Prueba un flujo donde muestras una campaña, explicas verbalmente lo que buscas y el agente analiza, investiga y genera tareas sin abandonar la conversación.","topics":["Multimodal","Productividad"]}
+    ],"content_idea":"De SEO a IA: ahora también hay que hacer la web comprensible para los agentes."},
+    {"date":"2026-09-15","signals_reviewed":18,"stories":[
+      {"type":"signal","title":"La web empieza a separar buscadores, entrenamiento y agentes.","summary":"La infraestructura web comienza a distinguir quién indexa, quién entrena y quién entra para realizar acciones.","topics":["Web","AEO/GEO"]},
+      {"type":"important","title":"Los modelos se convierten en productos verticales.","summary":"Los grandes laboratorios aceleran soluciones completas para industrias, combinando modelos, datos, conectores y workflows.","topics":["Empresa","Agentes"]},
+      {"type":"try","title":"Audita qué entiende una IA de una marca.","summary":"Compara lo que encuentra un buscador, un asistente y un agente sobre la misma empresa o proyecto.","topics":["Marketing","AEO/GEO"]}
+    ]},
+    {"date":"2026-09-14","signals_reviewed":16,"stories":[
+      {"type":"signal","title":"La seguridad se convierte en una industria alrededor de la IA.","summary":"Evaluadores independientes, reglas explícitas de comportamiento y auditoría ganan peso alrededor de los modelos frontier.","topics":["Safety","Evals"]},
+      {"type":"important","title":"La infraestructura sigue acelerando pese al debate sobre el ritmo de capacidades.","summary":"La inversión en chips y compute continúa mientras crece la discusión sobre controles y evaluaciones.","topics":["Compute","Chips"]}
+    ]},
+    {"date":"2026-09-13","signals_reviewed":15,"stories":[
+      {"type":"signal","title":"Los laboratorios empiezan a discutir cómo acompasar la frontera.","summary":"Crece la conversación sobre coordinación, evaluaciones externas y límites verificables.","topics":["Safety","Política IA"]},
+      {"type":"important","title":"MCP entra en workflows creativos profesionales.","summary":"La conexión entre agentes y herramientas deja de ser sólo una demo de developers y empieza a entrar a producción.","topics":["MCP","Creatividad"]}
+    ]},
+    {"date":"2026-09-12","signals_reviewed":19,"stories":[
+      {"type":"signal","title":"El problema central de los agentes se mueve de inteligencia hacia control.","summary":"Permisos, sandbox, trazabilidad y control de salida pesan cada vez más conforme aumenta la autonomía.","topics":["Agentes","Seguridad"]},
+      {"type":"important","title":"El post-training especializado gana terreno en coding.","summary":"Modelos abiertos fuertes pueden acercarse a la frontera cuando se especializan con entornos y evaluaciones de dominio.","topics":["Coding","Open source"]}
+    ]},
+    {"date":"2026-09-11","signals_reviewed":14,"stories":[
+      {"type":"signal","title":"Los agentes empiezan a necesitar identidad y permisos propios.","summary":"Pagos y acciones autónomas empujan estándares para saber quién autorizó a un agente y qué puede hacer.","topics":["Agentes","Pagos"]}
+    ]},
+    {"date":"2026-09-10","signals_reviewed":20,"stories":[
+      {"type":"signal","title":"Safety pasa de conversación teórica a ingeniería y regulación.","summary":"Controles externos al modelo, energía y seguridad de herramientas entran al centro del diseño agentic.","topics":["Safety","Regulación"]}
+    ]},
+    {"date":"2026-09-09","signals_reviewed":17,"stories":[
+      {"type":"signal","title":"La IA científica empieza a parecer una organización híbrida de investigación.","summary":"Sistemas multiagente, datasets especializados y verificación empiezan a combinarse para investigación compleja.","topics":["Research","Science"]}
+    ]},
+    {"date":"2026-09-08","signals_reviewed":13,"stories":[
+      {"type":"signal","title":"Los benchmarks empiezan a medir trabajo completo, no sólo conocimiento.","summary":"Automation y terminal ganan peso mientras modelos pequeños muestran utilidad como subagentes.","topics":["Benchmarks","Agentes"]}
+    ]},
+    {"date":"2026-09-07","signals_reviewed":18,"stories":[
+      {"type":"signal","title":"La competencia se desplaza del modelo aislado hacia sistemas que reutilizan experiencia.","summary":"Skills, entornos y conocimiento operativo empiezan a convertirse en activos independientes del modelo.","topics":["Skills","Agentes"]}
+    ]}
+  ]
+}
