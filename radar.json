@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T08:23:40-06:00",
+  "updated_at": "2026-09-17T12:12:00-06:00",
   "editions": [
     {
       "date": "2026-09-17",
@@ -38,7 +38,49 @@
           ]
         }
       ],
-      "content_idea": "La nueva interfaz de la IA es no tener interfaz: tú pides el resultado y el sistema decide si necesita chat, documentos, agentes o memoria."
+      "content_idea": "La nueva interfaz de la IA es no tener interfaz: tú pides el resultado y el sistema decide si necesita chat, documentos, agentes o memoria.",
+      "secondary_signals": [
+        {
+          "id": "2026-09-17-gemini-live-38",
+          "date": "2026-09-17",
+          "title": "Gemini 3.8 Live convierte la voz en una interfaz de trabajo.",
+          "summary": "Google lanzó modelos de voz que pueden razonar y ejecutar tareas mientras mantienen la conversación.",
+          "topics": ["Gemini", "Google DeepMind", "Multimodal", "Voz", "Agentes"],
+          "sources": [
+            "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/"
+          ]
+        },
+        {
+          "id": "2026-09-17-google-home-mcp",
+          "date": "2026-09-17",
+          "title": "MCP empieza a conectar agentes con el mundo físico.",
+          "summary": "Google Home abrió una integración MCP para que agentes externos interactúen con dispositivos y datos del hogar bajo límites de seguridad.",
+          "topics": ["MCP", "Agentes", "Google", "IoT", "Multimodal"],
+          "sources": [
+            "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date"
+          ]
+        },
+        {
+          "id": "2026-09-17-meta-one",
+          "date": "2026-09-17",
+          "title": "Meta empaqueta más IA en una suscripción para usuarios, creadores y negocios.",
+          "summary": "Meta One aumenta límites y herramientas de IA mientras mantiene gratuita la experiencia base de Meta AI.",
+          "topics": ["Meta AI", "Meta", "Marketing", "Creatividad", "Precios"],
+          "sources": [
+            "https://about.fb.com/news/2026/09/introducing-meta-one-subscription-service-more-features-ai/"
+          ]
+        },
+        {
+          "id": "2026-09-17-ai-energy-alliance",
+          "date": "2026-09-17",
+          "title": "La carrera de IA empieza a optimizar también la electricidad.",
+          "summary": "NVIDIA, Google y Emerald AI lanzaron una alianza para que los data centers adapten su consumo a las condiciones de la red eléctrica.",
+          "topics": ["Chips / Compute", "NVIDIA", "Google", "Energía", "Infraestructura"],
+          "sources": [
+            "https://blogs.nvidia.com/blog/ai-energy-management-alliance/"
+          ]
+        }
+      ]
     },
     {"date":"2026-09-16","signals_reviewed":17,"stories":[
       {"type":"signal","title":"La voz ya no sólo conversa: empieza a trabajar mientras hablas.","summary":"Voz, visión, razonamiento y herramientas empiezan a mezclarse en una sola interacción. La oportunidad es un agente capaz de seguir conversando mientras consulta, analiza y ejecuta.","topics":["Voz","Agentes"]},
