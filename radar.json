@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T08:00:00-06:00",
+  "updated_at": "2026-09-17T08:23:40-06:00",
   "editions": [
     {
       "date": "2026-09-17",
@@ -24,7 +24,7 @@
           "topics": ["ChatGPT", "OpenAI", "Safety", "Agentes", "Evals", "Regulación"],
           "sources": [
             "https://openai.com/index/model-misalignment-reporting-framework/",
-            "https://apnews.com/article/089e75b95bc935af092da7b79d92706d"
+            "https://apnews.com/article/openai-safety-ai-framework-089e75b95bc935af092da7b79d92706d"
           ]
         },
         {
